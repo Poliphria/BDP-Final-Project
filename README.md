@@ -1,6 +1,6 @@
 # BDP-Final-Project
 
-  Christian Moronta (my deliverables are in this repository), Ivan Escalona, Oserieman Ivbaze, and Bryan Davidson
+  Christian Moronta (my deliverables are in this repository), Ivan Escalona, Oserieman Ivbaze, and Bryan Davidson. Link to       dataset located in final report.  
 
 # Steps for running code
   1) Make sure to download necessary packages: numpy, matplotlib, and pandas
